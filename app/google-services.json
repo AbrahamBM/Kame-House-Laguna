@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054697244889",
+    "project_id": "kame-house-laguna",
+    "storage_bucket": "kame-house-laguna.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054697244889:android:6a5636c0d40841373816c8",
+        "android_client_info": {
+          "package_name": "com.kamehouselaguna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzOrqxARiIUih7bRZKqHwgLBOYvN89H1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
